@@ -4,7 +4,7 @@ FOA Granulator
 
 ![Granix Interface](docs/images/granix_interface.png)
 
-A sophisticated real-time granular synthesizer with first-order Ambisonics spatialization, developed in Csound with Cabbage framework.
+A  real-time granular synthesizer with first-order Ambisonics spatialization, developed in Csound with Cabbage framework.
 
 ## 🎯 Overview
 
@@ -13,7 +13,7 @@ A sophisticated real-time granular synthesizer with first-order Ambisonics spati
 ### Key Features
 
 - **Real-time Granular Synthesis** with comprehensive parameter control
-- **First-Order Ambisonics (FOA)** encoding in AmbiX format (W, Y, Z, X)
+- **First-Order Ambisonics (FOA)** encoding in AmbiX format (W*sqrt(2), Y, Z, X)
 - **Dynamic Spatial Movement** based on audio buffer position
 - **Intelligent Grain Distribution** in 3D space
 - **Professional VST3 Plugin** built with Cabbage framework
